@@ -9,10 +9,23 @@
 MBTI: ISTP   
 좌우명: No Sibal Keep Going   
 ```
+### Education
+```
+- 인천송천고등학교 (2015)
+- 동서울대 시각디자인과 졸업 (2021)
+```
+### Training
+```
+- 그린컴퓨터아카데미 반응형 웹디자인%웹퍼블리셔 양성과정 수료 (2021)
+- 리메인커리어 UXUI 프로페셔널 수료 (2023)
+- 이스트소프트 AI 서비스 기획 양성 과정 교육 진행중 (2024)
+```
+
 ### Experience
 ```
-ex- Blockchain SNS 'I TALK TOO' UXUI Designer
+ex- 블록체인 SNS '아이톡투' UXUI Designer
 ```
+
 ------------
 
 ![Alt text](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
