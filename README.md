@@ -4,7 +4,7 @@
 
 ### profile
 ```
-**Name** 노현송
+<b>Name</b> 노현송
 *Birth date*1996-11-01
 *MBTI* ISTP
 *Motto* No Sibal Keep Going
