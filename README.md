@@ -7,7 +7,7 @@
 활동 지역: 인천/서울
 MBTI:ISTP
 
-----
+------------
 
 ![Alt text](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt text](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -21,8 +21,6 @@ MBTI:ISTP
 ![Alt text](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Alt text](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
 ![Alt text](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Alt text](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Alt text](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
