@@ -4,10 +4,10 @@
 
 ### profile
 ```
-Name 노현송   
-Birth date 1996-11-01   
-MBTI ISTP   
-Motto No Sibal Keep Going   
+이름: 노현송   
+생년월일: 1996-11-01   
+MBTI: ISTP   
+좌우명: No Sibal Keep Going   
 ```
 ### Experience
 ```
