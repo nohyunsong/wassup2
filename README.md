@@ -11,7 +11,7 @@
 ```
 ### Experience
 ```
-* ex Blockchain SNS 'I TALK TOO' UXUI Designer
+- ex Blockchain SNS 'I TALK TOO' UXUI Designer
 ```
 ------------
 
