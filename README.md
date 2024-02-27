@@ -16,7 +16,7 @@
 ![Alt text](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Alt text](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyNDAxMDdfMjcx/MDAxNzA0NjI4MTE2Njcx.Xr-xeR_KhXWrBn1lKWe2cnj6aTecPUIlJSSz0q1LY_kg.DcQg5_dYJmC90PVQaaGfANJX-2S0TrfLtfeQX7HXS-8g.JPEG.qlrqod527/IMG_6206.JPG?type=w800" width="30%" height="40%" alt="남해 바다에서"></img> 
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNDAxMDdfMjcx/MDAxNzA0NjI4MTE2Njcx.Xr-xeR_KhXWrBn1lKWe2cnj6aTecPUIlJSSz0q1LY_kg.DcQg5_dYJmC90PVQaaGfANJX-2S0TrfLtfeQX7HXS-8g.JPEG.qlrqod527/IMG_6206.JPG?type=w800" width="40%" height="50%" alt="남해 바다에서"></img> 
 * 이름: 노현송
 * 생년월일: 1996년 11월 1일
 * 활동 지역: 인천/서울
