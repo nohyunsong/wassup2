@@ -20,7 +20,6 @@ MBTI: ISTP
 - 이스트소프트 AI 서비스 기획 과정 교육 진행중 (2024)
 ```
 
-
 ### Experience
 ```
 Ex- 블록체인 SNS '아이톡투' UXUI Designer (2021.07-2023.05)
