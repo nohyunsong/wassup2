@@ -6,8 +6,7 @@
 ```
 이름: 노현송   
 생년월일: 1996-11-01   
-MBTI: ISTP   
-좌우명: No Sibal Keep Going   
+MBTI: ISTP     
 ```
 ### Education
 ```
