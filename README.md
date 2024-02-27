@@ -43,5 +43,6 @@ Ex- 블록체인 SNS '아이톡투' UXUI Designer (2021.07-2023.05)
 ![Alt text](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Alt text](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1fXALB3kb14ngMRGNdV5wD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
