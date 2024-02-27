@@ -1,5 +1,5 @@
 # 노현송
-![Alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Alt text](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![Alt text](https://img.shields.io/badge/Burger King-D62300?style=for-the-badge&logo=Burger King&logoColor=white) ![Alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 * 이름: 노현송<br>
 * 생년월일: 1996년 11월 1일
