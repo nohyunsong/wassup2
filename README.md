@@ -39,10 +39,9 @@ Ex- 블록체인 SNS '아이톡투' UXUI Designer (2021.07-2023.05)
 ![Alt text](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 <a href="https://www.linkedin.com/feed/">![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Alt text](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Alt text](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+<a href="https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD?si=f4d114c6198a4085">![Alt text](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 ![Alt text](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Alt text](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1fXALB3kb14ngMRGNdV5wD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
