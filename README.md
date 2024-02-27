@@ -10,7 +10,7 @@
 **Motto** No Sibal Keep Going   
 
 ### Experience
-- ex Blockchain SNS 'I TALK TOO' UXUI Designer
+ex- Blockchain SNS 'I TALK TOO' UXUI Designer
 
 ------------
 
