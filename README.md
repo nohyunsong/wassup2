@@ -2,16 +2,17 @@
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNDAxMDdfMjcx/MDAxNzA0NjI4MTE2Njcx.Xr-xeR_KhXWrBn1lKWe2cnj6aTecPUIlJSSz0q1LY_kg.DcQg5_dYJmC90PVQaaGfANJX-2S0TrfLtfeQX7HXS-8g.JPEG.qlrqod527/IMG_6206.JPG?type=w800" width="40%" height="50%" alt="남해 바다에서" align="left"></img> 
 
-## profile
-
-**Name** 노현송   
-**Birth date** 1996-11-01   
-**MBTI** ISTP   
-**Motto** No Sibal Keep Going   
-
-## Experience
+### profile
+```
+Name 노현송   
+Birth date 1996-11-01   
+MBTI ISTP   
+Motto No Sibal Keep Going   
+```
+### Experience
+```
 ex- Blockchain SNS 'I TALK TOO' UXUI Designer
-
+```
 ------------
 
 ![Alt text](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
