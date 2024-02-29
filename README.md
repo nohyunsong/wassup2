@@ -22,7 +22,7 @@ MBTI: ISTP
 
 ### Experience
 ```
-Ex- 블록체인 SNS '아이톡투' UXUI Designer (2021.07-2023.05)
+Ex- 블록체인 SNS '아이톡투' UXUI Designer (2021.07 - 2023.05)
 ```
 
 ------------
